@@ -14,7 +14,7 @@ Back in 1987, HyperCard revolutionized the way ordinary people (i.e., non-progra
 
 But the world has changed since then.
 
-My idea is therefore to develop a modern variant of HyperCard which only keeps its basic ideas, but changes almost everything else in order to match today's possibilities, but also requirements.
+My idea is therefore to develop a modern variant of HyperCard which only keeps its basic ideas, but changes almost everything else in order to match today's possibilities and user expectations.
 
 
 ## License ##
