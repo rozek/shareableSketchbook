@@ -6,6 +6,8 @@ a shareable visual Low-Code Playground for Web Technologies
 
 ![Screenshot](shareableSketchbook-Screenshot.png)
 
+(preliminary screenshot)
+
 This is an intermediate step on my way to a modern variant of the famous [Apple HyperCard](https://hypercard.org/) (see also its [Wikipedia article](https://en.wikipedia.org/wiki/HyperCard)).
 
 Back in 1987, HyperCard revolutionized the way ordinary people (i.e., non-programmers) used computers: it turned consumers into producers, unleashing a [creativity](https://archive.org/details/hypercardstacks) that was never seen before. And it did that by lowering the entry barriers of "programming" to not much more than what one would call "creating a PowerPoint presentation" nowadays.
