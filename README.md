@@ -6,7 +6,7 @@ a shareable visual Low-Code Playground for Web Technologies
 
 ![Screenshot](shareableSketchbook-Screenshot.png)
 
-(preliminary screenshot)
+(preliminary screenshot of an early development step)
 
 This is an intermediate step on my way to a modern variant of the famous [Apple HyperCard](https://hypercard.org/) (see also its [Wikipedia article](https://en.wikipedia.org/wiki/HyperCard)).
 
